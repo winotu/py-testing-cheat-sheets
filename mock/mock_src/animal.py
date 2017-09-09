@@ -19,10 +19,10 @@ class Cat(object):
     @staticmethod
     def _icon():
         print r"""
- _._     _,-'""`-._
-(,-.`._,'(       |\`-/|
-    `-.-' \\ )-`( , o o)
-           `-    \`_`"'-
+           A___A
+     ____ / o o \
+   /~____   ='= /
+  (______)__m_m_)
 """
 
     def speak(self):
